@@ -1,17 +1,16 @@
-#My IT Home Lab
+# My IT Home Lab
 
-## Objective
-Develop hands-on skills in IT support,
-networking, and cybersecurity.
+## About This Project
+This repository documents my journey
+developing hands-on IT skills.
 
-## Technologies
+## Skills I'm Developing
 - Windows Server
 - Active Directory
-- Virtual Machines
 - Networking
+- Cybersecurity
 - PowerShell
 
-## Projects
-1. Active Directory Configuration
-2. User Account Management
-3. Network Troubleshooting
+## Goal
+Build practical technical skills and
+document my progress.
