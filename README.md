@@ -14,3 +14,8 @@ developing hands-on IT skills.
 ## Goal
 Build practical technical skills and
 document my progress.
+## GitHub Practice
+
+I am learning how to use GitHub branches
+to manage changes without affecting
+the main version of my project.
